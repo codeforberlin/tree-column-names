@@ -1,0 +1,445 @@
+{
+    "address": {
+        "alternatives": [
+            "namenr", 
+            "NameNr", 
+            "Objekt", 
+            "OBJEKT_STRASSE"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "age": {
+        "alternatives": [
+            "standalter", 
+            "Standalter"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "alk_nr4st": {
+        "alternatives": [
+            "alk_nr4st"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "area": {
+        "alternatives": [
+            "Gebiet"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "area_type": {
+        "alternatives": [
+            "GEBIETSGRUPPE"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "city": {
+        "alternatives": [
+            "Stadt"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "crown_diameter": {
+        "alternatives": [
+            "kronedurch", 
+            "KroneDurch", 
+            "KRONENDURCHMESSER", 
+            "kronendurchmesser", 
+            "Kronendurc", 
+            "Kronendurchmesser", 
+            "Kronendurchm_m"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "crown_diameter_with_unit": {
+        "alternatives": [
+            "kronendmzahl", 
+            "KRONENDURCHMESSER_TXT"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "cut_at": {
+        "alternatives": [
+            "gefaellt_am"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "district": {
+        "alternatives": [
+            "bezirk", 
+            "BEZIRK"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "district_id": {
+        "alternatives": [
+            "ortsteil_nr", 
+            "Ortsteil", 
+            "BEZIRK"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "easting": {
+        "alternatives": [
+            "RECHTSWERT"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "english_name": {
+        "alternatives": [
+            "aliases"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "extension": {
+        "alternatives": [
+            "zusatz"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "genus_german": {
+        "alternatives": [
+            "gattung_deutsch"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "genus_latin": {
+        "alternatives": [
+            "gattung", 
+            "Gattung", 
+            "gattung_latein", 
+            "Gattung2"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "genus_species_latin_german": {
+        "alternatives": [
+            "Gattung/Ar", 
+            "Gattung/Art/Deutscher Name", 
+            "Gattung3", 
+            "GATTUNG_ART"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "gml_id": {
+        "alternatives": [
+            ""
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "house_number": {
+        "alternatives": [
+            "hausnr", 
+            "hausnummer"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "identification_tag": {
+        "alternatives": [
+            "kennzeich", 
+            "Kennzeich"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "inspection_at": {
+        "alternatives": [
+            "Kontrolle_am"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "location_number": {
+        "alternatives": [
+            "standortnr", 
+            "StandortNr"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "northing": {
+        "alternatives": [
+            "HOCHWERT"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "object_id": {
+        "alternatives": [
+            "OBJECTID"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "ogc_fid": {
+        "alternatives": [
+            ""
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "owner": {
+        "alternatives": [
+            "Eigentuemer", 
+            "DATENFUEHRUNG"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "spatial_alias": {
+        "alternatives": [
+            "spatial_al", 
+            "spatial_alias"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "spatial_name": {
+        "alternatives": [
+            "spatial_na", 
+            "spatial_name"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "spatial_type": {
+        "alternatives": [
+            "spatial_ty", 
+            "spatial_type"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "species_german": {
+        "alternatives": [
+            "art_dtsch", 
+            "Art_Dtsch", 
+            "art_deutsch", 
+            "Baumart"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "species_latin": {
+        "alternatives": [
+            "art_bot", 
+            "Art_Bot", 
+            "art_latein"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "street_id": {
+        "alternatives": [
+            "Str_Nr"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "street_name": {
+        "alternatives": [
+            "strname", 
+            "strasse", 
+            "Strasse"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "the_geom": {
+        "alternatives": [
+            ""
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "tree_height": {
+        "alternatives": [
+            "baumhoehe", 
+            "BaumHoehe", 
+            "BAUMHOEHE"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "tree_height_with_unit": {
+        "alternatives": [
+            "BAUMHOEHE_TXT"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "tree_id": {
+        "alternatives": [
+            "baumid", 
+            "BAUM_ID"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "tree_number": {
+        "alternatives": [
+            "Baumnummer", 
+            "Baum_Nr", 
+            "BAUMNUMMER"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "trunk_circumference": {
+        "alternatives": [
+            "stammumfg", 
+            "Stammumfg", 
+            "STAMMUMFANG", 
+            "stammumfang", 
+            "Stammumfang_m", 
+            "Stammumfang_cm"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "trunk_circumference_with_unit": {
+        "alternatives": [
+            "stammumfangzahl", 
+            "STAMMUMFANG_TXT"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "vitality": {
+        "alternatives": [
+            "Vitalitaet"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "worked_at": {
+        "alternatives": [
+            "stand_bearbeitung"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "year_of_planting": {
+        "alternatives": [
+            "pflanzjahr", 
+            "Pflanzjahr", 
+            "PFLANZJAHR"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }, 
+    "year_of_planting_text": {
+        "alternatives": [
+            "PFLANZJAHR_TXT"
+        ], 
+        "label": {
+            "de": "", 
+            "en": ""
+        }
+    }
+}
